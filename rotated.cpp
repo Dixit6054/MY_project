@@ -10,6 +10,7 @@ int rotatednumber(int*,int);
 int main()
 {
 	int arr[9] = {11,15,22,24,4,5,7,9,10};
+	//this is a experiment on git
 //check out that the index of element 2(min) will be the no. of rotations
 //2 is the place where sorted behavior first breaks.--> that gives me idea for linear search O(n). not bad
 // 2 is the only place,ie both sides are sorted;---> divide and conquer-->binary search
